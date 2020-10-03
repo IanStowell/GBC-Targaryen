@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\GBC\01-Menu\bin\Debug\01-Menu.exe.config
+C:\Users\Ian\Desktop\GBC\01-Menu\bin\Debug\01-Menu.exe
+C:\Users\Ian\Desktop\GBC\01-Menu\bin\Debug\01-Menu.pdb
+C:\Users\Ian\Desktop\GBC\01-Menu\bin\Debug\01-Menu_Repo.dll
+C:\Users\Ian\Desktop\GBC\01-Menu\bin\Debug\01-Menu_Repo.pdb
+C:\Users\Ian\Desktop\GBC\01-Menu\obj\Debug\01-Menu.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\GBC\01-Menu\obj\Debug\01-Menu.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\GBC\01-Menu\obj\Debug\01-Menu.csproj.CopyComplete
+C:\Users\Ian\Desktop\GBC\01-Menu\obj\Debug\01-Menu.exe
+C:\Users\Ian\Desktop\GBC\01-Menu\obj\Debug\01-Menu.pdb

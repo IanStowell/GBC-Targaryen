@@ -1,0 +1,7 @@
+C:\Users\Ian\Desktop\GBC\04-Outings\bin\Debug\04-Outings.exe.config
+C:\Users\Ian\Desktop\GBC\04-Outings\bin\Debug\04-Outings.exe
+C:\Users\Ian\Desktop\GBC\04-Outings\bin\Debug\04-Outings.pdb
+C:\Users\Ian\Desktop\GBC\04-Outings\obj\Debug\04-Outings.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\GBC\04-Outings\obj\Debug\04-Outings.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\GBC\04-Outings\obj\Debug\04-Outings.exe
+C:\Users\Ian\Desktop\GBC\04-Outings\obj\Debug\04-Outings.pdb

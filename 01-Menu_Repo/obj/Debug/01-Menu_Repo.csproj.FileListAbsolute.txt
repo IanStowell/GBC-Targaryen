@@ -1,0 +1,6 @@
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\bin\Debug\01-Menu_Repo.dll
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\bin\Debug\01-Menu_Repo.pdb
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\obj\Debug\01-Menu_Repo.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\obj\Debug\01-Menu_Repo.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\obj\Debug\01-Menu_Repo.dll
+C:\Users\Ian\Desktop\GBC\01-Menu_Repo\obj\Debug\01-Menu_Repo.pdb
